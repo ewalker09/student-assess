@@ -8,6 +8,7 @@ const Student = ({name}
     <img src={IMG_API} alt={name} />
     <div className="stud-info">
     <h3>{name}</h3>
+    </div>
   </div>
 )
 
