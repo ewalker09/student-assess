@@ -73,6 +73,7 @@ function App() {
             students.map((student) => <Student key={student
             .id} {...student} />)}
       </div>
+</>
     );
   }
 
